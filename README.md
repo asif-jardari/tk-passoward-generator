@@ -61,15 +61,7 @@ or
 mysetup.exe
 
 
----
 
-📸 Screenshots
-
-(তোমার তিনটি screenshot ব্যবহার করো)
-
-![Screenshot 1](Screenshot 2025-11-20 202220.png)
-![Screenshot 2](Screenshot 2025-11-20 202236.png)
-![Screenshot 3](Screenshot 2025-11-20 202354.png)
 
 
 ---
